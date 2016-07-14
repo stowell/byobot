@@ -1,6 +1,0 @@
-cron:
-- description: send morning temperature
-  url: /notify
-  schedule: every day 05:30
-  timezone: America/New_York
-
